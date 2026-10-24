@@ -10,8 +10,8 @@
 - [x] Mostrar las etapas del dibujo del ahorcado.
 - [x] Mostrar un mensaje cuando el jugador gane.
 - [x] Mostrar la palabra correcta cuando pierda.
-- [ ] Permitir volver a jugar o finalizar.
-- [ ] Importar los archivos de palabras y dibujos.
+- [x] Permitir volver a jugar o finalizar.
+- [x] Importar los archivos de palabras y dibujos.
 
 # Juego del Ahorcado
 
