@@ -1,6 +1,6 @@
-- [ ] Crear una lista de palabras en un archivo separado.
-- [ ] Seleccionar una palabra aleatoriamente.
-- [ ] Mostrar la palabra oculta con guiones bajos.
+- [x] Crear una lista de palabras en un archivo separado.
+- [x] Seleccionar una palabra aleatoriamente.
+- [x] Mostrar la palabra oculta con guiones bajos.
 - [ ] Solicitar una letra al jugador.
 - [ ] Validar que ingrese una sola letra entre A y Z.
 - [ ] Evitar que se repitan letras utilizadas.
@@ -19,6 +19,7 @@
 
 **Nombre:** Jerson stiven alzate cruz
 **Correo:**  stiven.alzate@utp.edu.co
+
 
 ## Descripción del proyecto
 
