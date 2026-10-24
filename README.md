@@ -5,11 +5,11 @@
 - [x] Validar que ingrese una sola letra entre A y Z.
 - [x] Evitar que se repitan letras utilizadas.
 - [x] Mostrar las letras correctas en sus posiciones.
-- [ ] Iniciar el juego con 6 vidas.
-- [ ] Descontar vidas por respuestas incorrectas.
-- [ ] Mostrar las etapas del dibujo del ahorcado.
-- [ ] Mostrar un mensaje cuando el jugador gane.
-- [ ] Mostrar la palabra correcta cuando pierda.
+- [x] Iniciar el juego con 6 vidas.
+- [x] Descontar vidas por respuestas incorrectas.
+- [x] Mostrar las etapas del dibujo del ahorcado.
+- [x] Mostrar un mensaje cuando el jugador gane.
+- [x] Mostrar la palabra correcta cuando pierda.
 - [ ] Permitir volver a jugar o finalizar.
 - [ ] Importar los archivos de palabras y dibujos.
 

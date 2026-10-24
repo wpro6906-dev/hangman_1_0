@@ -1,8 +1,11 @@
+
 import random
 from palabras import palabras
+from dibujos import dibujos
 
 palabra_secreta = random.choice(palabras)
 letras_usadas = []
+vidas = 6
 
 print("BIENVENIDO AL JUEGO DEL AHORCADO")
 
@@ -16,9 +19,15 @@ while True:
             palabra_mostrada += "_ "
 
     print("\nPalabra:", palabra_mostrada)
+    print("Vidas:", vidas)
 
     if "_" not in palabra_mostrada:
         print("¡Felicidades! Ganaste.")
+        break
+
+    if vidas == 0:
+        print("¡Perdiste!")
+        print("La palabra era:", palabra_secreta)
         break
 
     intento = input("Ingresa una letra: ").upper()
@@ -36,4 +45,6 @@ while True:
     if intento in palabra_secreta:
         print("¡Correcto!")
     else:
-        print("La letra no está en la palabra.")
+        vidas -= 1
+        print("¡Incorrecto!")
+        print(dibujos[6 - vidas])
