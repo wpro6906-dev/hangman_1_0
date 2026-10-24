@@ -1,10 +1,10 @@
 - [x] Crear una lista de palabras en un archivo separado.
 - [x] Seleccionar una palabra aleatoriamente.
 - [x] Mostrar la palabra oculta con guiones bajos.
-- [ ] Solicitar una letra al jugador.
-- [ ] Validar que ingrese una sola letra entre A y Z.
-- [ ] Evitar que se repitan letras utilizadas.
-- [ ] Mostrar las letras correctas en sus posiciones.
+- [x] Solicitar una letra al jugador.
+- [x] Validar que ingrese una sola letra entre A y Z.
+- [x] Evitar que se repitan letras utilizadas.
+- [x] Mostrar las letras correctas en sus posiciones.
 - [ ] Iniciar el juego con 6 vidas.
 - [ ] Descontar vidas por respuestas incorrectas.
 - [ ] Mostrar las etapas del dibujo del ahorcado.
